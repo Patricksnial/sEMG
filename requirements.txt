@@ -1,0 +1,8 @@
+numpy
+scipy
+typeguard
+matplotlib
+h5py
+tensorflow_addons
+tensorflow-gpu >= 2.0, <2.6.0
+seaborn
