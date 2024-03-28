@@ -16,14 +16,7 @@ cat repro.py
 
 ## Run experiment
 
-Without IMU:
-
 ```bash
 python repro.py
 ```
 
-With IMU
-
-```bash
-python repro.py imu
-```
